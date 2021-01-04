@@ -1,4 +1,4 @@
-import { v4 as uuidv4} from 'uuid';
+import { v4 as uuidv4 } from 'uuid';
 
 // HEAD DATA
 export const headData = {
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://s3.amazonaws.com/archivos-cvonline/assets/pdf/791315/A4-Vincent-Oladimeji.pdf', // if no resume, the button will not show up
+  resume: 'https://s3.amazonaws.com/archivos-cvonline/assets/pdf/791315/FSVincent-Oladimeji.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
